@@ -4,9 +4,11 @@ I’m Yeri, the founder of Hermes Deutsches Lab.
 Today marks the beginning of an exciting journey,
 I’m thrilled to guide you on this voyage in my class!
 
-**Prost,**  
-**Yeri**
+Prost,
+Yeri
+
 ---
+
 ### About
 Yeriansen merupakan alumnus Universitas Negeri Surabaya dengan latar belakang akademis Sastra Jerman. Ia seorang German Linguist sejak 9 tahun lalu dan memahami budaya negara-negara berbahasa Jerman lainnya, seperti Austria, Swiss, dan Liechtenstein.
 
@@ -35,11 +37,7 @@ Dengan pendekatan interdisipliner yang menggabungkan ilmu bahasa, psikologi, dan
 
 ---
 
-
-
-### OPEN Class
-
-
+### OPEN! 2 Kuota Online Private 1-on-1 by Yeriansen
 
 Send me a message: [Contact me on WhatsApp](https://wa.me/6285791739369)
 
