@@ -1,8 +1,4 @@
 title: HERMES DEUTSCHES LAB
 description: Online Privat Bahasa Jerman 1-on-1 by Yeriansen
-#show_downloads: true
+#show_downloads: false
 theme: jekyll-theme-minimal
-
-theme: orderedlist
-footer: false
-
