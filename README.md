@@ -10,8 +10,9 @@ Yeri
 
 ---
 
-### About
+### Tentang Pengajar
 Yeriansen merupakan alumnus Universitas Negeri Surabaya dengan latar belakang akademis Sastra Jerman.
+
 Ia seorang German Linguist sejak 9 tahun lalu dan memahami budaya negara-negara berbahasa Jerman lainnya, seperti Austria, Swiss, dan Liechtenstein.
 
 Yeriansen memiliki keahlian pengajaran Psycholinguistics,
