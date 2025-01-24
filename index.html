@@ -12,24 +12,43 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
         }
         .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
+            max-width: 600px;
+            width: 90%;
+            padding: 30px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
         }
         img {
             max-width: 100%;
             height: auto;
+            display: block;
+            margin: 0 auto 20px;
         }
         h2, h3 {
             color: #ffffff;
+            text-align: center;
         }
         hr {
             border-color: rgba(255, 255, 255, 0.3);
+            margin: 20px 0;
         }
         a {
             color: #ffffff;
+            text-decoration: none;
+            border-bottom: 1px dotted #ffffff;
+        }
+        a:hover {
+            border-bottom: 1px solid #ffffff;
+        }
+        .centered {
+            text-align: center;
         }
     </style>
 </head>
@@ -39,13 +58,13 @@
 
         <h2>Hallo, Everyone!</h2>
 
-        <p>I'm Yeri, the founder of Hermes Deutsches Lab.<br>
+        <p class="centered">I'm Yeri, the founder of Hermes Deutsches Lab.<br>
         Today marks the beginning of an exciting journey,<br>
         I'm thrilled to guide you on this voyage in my class!</p>
 
-        <p>Prost,</p>
+        <p class="centered">Prost,</p>
 
-        <p>Yeri</p>
+        <p class="centered">Yeri</p>
 
         <hr>
 
@@ -84,9 +103,9 @@
 
         <h3>OPEN! 2 Kuota Online Private 1-on-1 by Yeriansen</h3>
 
-        <p>Send me a message: <a href="https://wa.me/6285791739369">Contact me on WhatsApp</a></p>
+        <p class="centered">Send me a message: <a href="https://wa.me/6285791739369">Contact me on WhatsApp</a></p>
 
-        <p>&copy; 2025 Hermes Deutsches Lab</p>
+        <p class="centered">&copy; 2025 Hermes Deutsches Lab</p>
     </div>
 </body>
 </html>
