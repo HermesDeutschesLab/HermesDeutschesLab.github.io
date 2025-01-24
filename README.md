@@ -13,9 +13,8 @@ I’m thrilled to guide you on this voyage in my class!
 
 ## OPEN Class
 
-Send me a message:  
-[Contact me on WhatsApp](https://wa.me/6285791739369)
+Send me a message: [Contact me on WhatsApp](https://wa.me/6285791739369)
 
 ---
 
-&copy; 2025 Hermes Deutsches Lab. All rights reserved.
+&copy; 2025 Hermes Deutsches Lab.
