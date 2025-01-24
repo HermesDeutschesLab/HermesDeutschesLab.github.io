@@ -2,7 +2,8 @@
 
 Hallo, Everyone!
 
-I’m Yeri, the founder of Hermes Deutsches Lab. Today marks the beginning of an exciting journey, 
+I’m Yeri, the founder of Hermes Deutsches Lab. 
+Today marks the beginning of an exciting journey,
 I’m thrilled to guide you on this voyage in my class!
 
 **Prost,**  
