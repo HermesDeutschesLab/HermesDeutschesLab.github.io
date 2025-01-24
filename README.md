@@ -5,6 +5,7 @@ Today marks the beginning of an exciting journey,
 I’m thrilled to guide you on this voyage in my class!
 
 Prost,
+
 Yeri
 
 ---
