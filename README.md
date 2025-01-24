@@ -1,6 +1,4 @@
-# Herzlich Willkommen
-
-Hallo, Everyone!
+**Hallo, Everyone!**
 
 I’m Yeri, the founder of Hermes Deutsches Lab. 
 Today marks the beginning of an exciting journey,
