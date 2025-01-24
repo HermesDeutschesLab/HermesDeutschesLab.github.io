@@ -1,5 +1,5 @@
 
-![HermesDeutschesLab_WebLogo](https://github.com/user-attachments/assets/103694f9-d2cc-4ec6-839d-396bfdd4560b)
+![Web Logo Hermes 2](https://github.com/user-attachments/assets/26eec5a9-291e-4e61-90cd-f8015bcbfda6)
 
 **Hallo, Everyone!**
 
