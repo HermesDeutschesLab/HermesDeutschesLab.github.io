@@ -1,6 +1,6 @@
 **Hallo, Everyone!**
 
-I’m Yeri, the founder of Hermes Deutsches Lab. 
+I’m Yeri, the founder of Hermes Deutsches Lab.
 Today marks the beginning of an exciting journey,
 I’m thrilled to guide you on this voyage in my class!
 
@@ -13,7 +13,8 @@ Yeri
 ### Tentang Pengajar
 Yeriansen merupakan alumnus Universitas Negeri Surabaya dengan latar belakang akademis Sastra Jerman.
 
-Ia seorang German Linguist sejak 9 tahun lalu dan memahami budaya negara-negara berbahasa Jerman lainnya, seperti Austria, Swiss, dan Liechtenstein.
+Ia seorang German Linguist sejak 9 tahun lalu dan memahami budaya negara-negara berbahasa Jerman lainnya
+seperti Austria, Swiss, dan Liechtenstein.
 
 Yeriansen memiliki keahlian pengajaran Psycholinguistics,
 yang memungkinkan ia mengajarkan bahasa dengan pendekatan aspek psikologis pembelajar bahasa,
