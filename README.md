@@ -1,3 +1,6 @@
+
+![HERMES DEUTSCHES LAB_Logo_4](https://github.com/user-attachments/assets/1190d7e7-2ecc-47e6-bebd-e2d9c52cd64a)
+
 **Hallo, Everyone!**
 
 I’m Yeri, the founder of Hermes Deutsches Lab.
