@@ -2,7 +2,8 @@
 
 Hallo, Everyone!
 
-Ich bin Yeri, die Gründerin des Hermes Deutsches Lab. Heute markiert den Beginn einer aufregenden Reise, und ich freue mich, euch auf dieser Reise in meinem Unterricht zu begleiten!
+I’m Yeri, the founder of Hermes Deutsches Lab. Today marks the beginning of an exciting journey, 
+I’m thrilled to guide you on this voyage in my class!
 
 **Prost,**  
 **Yeri**
